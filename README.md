@@ -48,7 +48,7 @@ Install instructions are available [here](https://github.com/thefr1nge/goodreads
   <h3 align="center">Github README YouTube Stats</h3>
 
   <p align="center">
-    Youtube stats badges for your Github profile README
+   My Youtube stats badges for my Github profile README
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCVHYzAiEdFpPKiOsTtJ_Hsg?sub_confirmation=1">
