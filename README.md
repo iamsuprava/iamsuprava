@@ -63,7 +63,7 @@ Install instructions are available [here](https://github.com/thefr1nge/goodreads
 
   <H2> Find me around the web 🌎:<img src='https://raw.githubusercontent.com/iamsuprava/iamsuprava/main/QMOl.gif' width="100px"></H2> 
   <a href="https://github.com/sponsors/iamsuprava"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/iamsuprava/iamsuprava/main/ZOxl.gif"></a>
-- Learning in public on <a href="https://twitter.com/suprava_saha">Twitter</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://twitter.com/suprava_saha">Twitter</a> or <a href="https://technophilelad.com/">technophilelad.com</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://technophilelad.com/"> technophilelad.com</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/suprava-saha-6198921bb/">LinkedIn</a> 💼
 
