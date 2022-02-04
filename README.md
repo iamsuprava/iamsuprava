@@ -11,9 +11,9 @@
 ## About me
 
 I'm currently a first year Btech student of [Ramaiah University](https://www.msruas.ac.in/), [Bangalore](https://en.wikipedia.org/wiki/Bangalore) :mortar_board: with a nanodegree on observational astronomy :sparkles:.<br> 
-I have been doing freelaning on UI designing/Brand Asset Designing/Wordpress Web dev/advertisement designing/Web Dev/cross-platform dev from last 3 years and have also worked as intern on few startups. And sometimes I appear on [YouTube](https://www.youtube.com/c/technophilelad) :heart:.
+I have been doing freelancing on UI designing/Brand Asset Designing/Wordpress Web dev/advertisement designing/Web Dev/cross-platform dev from last 3 years and have also worked as intern on few startups. And sometimes I appear on [YouTube](https://www.youtube.com/c/technophilelad) :heart:.
 
-I ocassionally make podcast, write books and make videos on a broad spectrum. <br>
+I occasionally  make podcast, write books and make videos on a broad spectrum. <br>
 And I like to paint 🖌️ , play chess ♟️ and observe various deep space objects.🔭
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
